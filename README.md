@@ -10,8 +10,8 @@ Core Features:
   - Data Extraction: A knowledge graph enriched with information from PMI Standards, PMBOK 6 & 7, Glossary of Risk Management, and real-world case studies.
     
   - Dual Recommendation Systems:
-    1-BERT-Based System: Utilizes BERT embeddings with a custom link predictor model for tailored recommendations.
-    2-BERT + RGCN-Based System: Combines BERT embeddings and RGCN for enhanced embeddings, refined by a customized link predictor model for superior results.
+    - 1- BERT-Based System: Utilizes BERT embeddings with a custom link predictor model for tailored recommendations.
+    - 2- BERT + RGCN-Based System: Combines BERT embeddings and RGCN for enhanced embeddings, refined by a customized link predictor model for superior results.
     
   - Graph Neural Networks (GNNs): Integrated RGCN for robust embeddings and advanced link prediction powering intelligent recommendations.
 💡 Technologies Used:
