@@ -1,0 +1,143 @@
+Keywords,Ids,paragraphs
+Accepted Deliverables,1,"Accepted Deliverables. Products, results, or capabilities produced by a project and validated by the project customer or sponsors as meeting their specified  acceptance criteria."
+Accuracy,5,Accuracy. An assessment of correctness within the  quality management system.
+Acquisition,7,Acquisition. Obtaining human and material resources  necessary to perform project activities. Acquisition implies a cost of resources and is not necessarily financial.
+Activity,10,"Activity. A distinct, scheduled portion of work performed during the course of a project. "
+Activity Cost Estimates,12,"Activity Cost Estimates. The projected cost of the planned activity, which includes the cost of all resources required to execute and complete the activity, including  all cost components and types."
+Activity Duration,16,Activity Duration. The time in calendar units between  the start and finish of a schedule activity.
+Activity List,18,"Activity List. A documented tabulation of schedule activities that shows the activity description, activity identifier, and a sufficiently detailed scope of work description so project team members understand what work  is to be performed. Actual Cost (AC). The realized cost incurred for the work  performed on an activity during a specific time period."
+Agreements,25,"Agreements. Any document or communication that  defines the initial intentions of a project. This can take  the form of a contract, memorandum of understanding (MOU), letters of agreement, verbal agreements,  email, etc."
+Alternatives Analysis,30,Alternatives Analysis. A technique used to evaluate identified options in order to select the options or approaches  to use to execute and perform the work of the project.
+Alternatives Generation,33,Alternatives Generation. A technique used to develop  as many potential options as possible to identify different approaches to execute and perform the work of  the project. Applying Leads and Lags. A technique used to adjust  the amount of time between predecessor and successor activities.
+Assumption,40,"Assumption. A factor in the planning process that is  considered to be true, real, or certain, without proof or  demonstration."
+Assumptions Analysis,43,"Assumptions Analysis. A technique that analyzes the  accuracy of assumptions and identifies project risks  caused by the inaccuracy, inconsistency, or incompleteness of assumptions. Basis of Estimates. Supporting documentation outlining the details used in establishing project estimates  such as assumptions, constraints, level of detail, ranges, and confidence levels."
+Benchmarking,51,"Benchmarking. The comparison of actual or planned  practices, such as processes and operations, to the  practices of comparable organizations to identify best  practices, generate ideas for improvement, and provide a basis for measuring performance."
+Brainstorming,56,"Brainstorming. A general creativity and data collection  technique that can be used to identify risks, ideas, or  solutions to issues through the participation of a group  of team members or experts in the field."
+Budget,60,Budget. The approved estimate for the project or any  work breakdown structure component or any schedule  activity. 
+Data Date,66,Data Date. A point in time when the status of the project is recorded.
+Data Gathering Techniques,68,Data Gathering Techniques. Repeatable processes  used to collect and organize information from a variety of sources.
+Deliverable,71,"Deliverable. Any unique and verifiable product, result,  or capability to perform a service that is required to  be produced to complete a process, phase, or project."
+Document Analysis,74,Document Analysis. A data gathering technique that  analyzes existing documentation and identifies information relevant to the requirements.
+Documentation Reviews,77,Documentation Reviews. The process of gathering a  corpus of information and reviewing it to determine  accuracy and completeness.
+Change Request,80,"Change Request. A formal proposal to modify a document, deliverable, or baseline."
+Constraint,82,"Constraint. A limiting factor that affects the execution  of a project, program, portfolio, or process."
+Contingency,84,Contingency. An event or occurrence that could affect  the execution of the project that may be accounted  for with a reserve.
+Contingency Reserve,87,Contingency Reserve. The budget allocated in the  cost or performance measurement baseline for identified risks that are accepted and for which contingent  or mitigation responses are developed. 
+Contract,91,"Contract. A mutually binding agreement for the parties that obligates the seller to provide the specified  product, service, or result and obligates the buyer to  pay for it."
+Control Limits,95,"Control Limits. The area composed of three standard  deviations on either side of the centerline or mean of a  normal distribution of data plotted on a control chart,  which reflects the expected variation in the data."
+Corrective Action,99,Corrective Action. An intentional activity that realigns  the performance of the project work with the project  management plan. Cost-Benefit Analysis. A financial analysis tool used to  determine the benefits provided by a project against  its costs.  Cost Performance Index (CPI). A measure of the cost  efficiency of budgeted resources expressed as the ratio of earned value to actual cost.
+Criteria,108,"Criteria. Standards, rules, or tests on which a judgment  or decision can be based or by which a product, service, result, or process can be evaluated."
+Critical Path,111,"Critical Path. The sequence of activities that represents the longest path through a project, which determines the shortest possible duration."
+Earned Value Management,114,"Earned Value Management. A methodology that combines scope, schedule, and resource measurements to  assess project performance and progress."
+Enterprise Environmental Factors,117,"Enterprise Environmental Factors. Conditions, not under the immediate control of the team, that influence,  constrain, or direct the project, program, or portfolio."
+Estimate Activity Durations,120,Estimate Activity Durations. The process of estimating  the number of work periods needed to complete individual activities with the estimated resources.
+Estimate Activity Resources,123,"Estimate Activity Resources. The process of estimating the type and quantities of material, people, equipment, or supplies necessary to perform each activity. C D E"
+Critical Path Activity,129,Critical Path Activity. Any activity on the critical path in  a project schedule. 
+Customer,131,"Customer. The person, people, organization, or organizations that will pay for the product, service, or result  of the project. Customers can be internal or external to  the performing organization. 3"
+Facilitated Workshops,136,"Facilitated Workshops. A technique for extracting information that includes focused sessions, in which key  interdisciplinary stakeholders meet to define product  requirements."
+Forecast,140,"Forecast. An estimate or prediction of conditions and  events in the project’s future based on information and  knowledge available at the time of the forecast. The information is based on the project’s past performance  and its expected performance for the future, and it includes information that could have an impact on the  project in the future, such as estimate at completion  and estimate to completion."
+Free Float,148,Free Float. The amount of time that a schedule activity  can be delayed without delaying the early start date of  any successor or violating a schedule constraint. F
+Guideline,152,"Guideline. Official advice or recommendations that  indicate policies, standards, or procedures about how  something should be carried out."
+Historical Information,155,"Historical Information. Documents and data on prior  projects including project files, records, correspondence, closed contracts, and closed projects."
+Identify Risks,158,Identify Risks. The process of determining which risks may  affect the project and documenting their characteristics.
+Identify Stakeholders,160,"Identify Stakeholders. The process of identifying the  people, groups, or organizations that could impact or  be impacted by a project decision, activity, or result,  as well as analyzing and documenting relevant information regarding their interests, involvement, interdependencies, influence, and potential impact on project  success."
+Input,167,"Input. Any item, whether internal or external to the project,  which is required by a process before that process proceeds. It may be an output from a predecessor process."
+Interviews,170,Interviews. A formal or informal approach to elicit information from stakeholders by talking to them directly. G H I
+Estimate Costs,175,Estimate Costs. The process of developing an approximation of the monetary resources needed to complete project work.
+Execute,178,Execute. Accomplishing the project work; providing the  deliverables; and providing work performance information.
+Executing Process Group,181,Executing Process Group. Processes performed to  complete the work defined in the project management plan to satisfy the project requirements.
+Expert Judgment,184,"Expert Judgment. Judgment provided based upon expertise in an application area, knowledge area, discipline, industry, etc., as appropriate for the activity being performed. Such expertise may be provided by any  group or person with specialized education, knowledge, skill, experience, or training."
+Lag,190,Lag. The amount of time whereby a successor activity  will be delayed with respect to a predecessor activity.
+Lessons Learned,192,"Lessons Learned. Knowledge gained during a project,  which shows how project events were addressed or  should be addressed in the future for the purpose of  improving future performance."
+Lessons Learned Knowledge Base,196,Lessons Learned Knowledge Base. The storage of historical information and lessons learned from both the  results of selection decisions from previous projects  and the performance of previous projects. 
+Log,200,Log. A document used to record and describe or denote selected items identified during the execution of  L 4
+Negotiation,204,Negotiation. The process and activities carried out to  settle disputes through consultations and dialogues  among the parties involved.
+Objective,207,"Objective. A goal toward which work is to be directed,  a strategic position to be attained, a purpose to be  achieved, a result to be obtained, a product to be produced, or a service to be performed."
+Opportunity,211,Opportunity. A risk that would have a positive effect on  one or more project objectives.
+Organizational Process Assets,213,"Organizational Process Assets. Plans, processes, policies, procedures, and knowledge bases that are specific to and used by the performing organization."
+Perform Qualitative Risk Analysis,216,Perform Qualitative Risk Analysis. The process of prioritizing risks for further analysis or action by assessing  and combining their probability of occurrence and impact.
+Perform Quantitative Risk Analysis,220,Perform Quantitative Risk Analysis. The process of numerically analyzing the effect of identified risks on overall project objectives.
+Plan Risk Management,223,Plan Risk Management. The process of defining how to  conduct risk management activities for a project.
+Plan Risk Responses,225,Plan Risk Responses. The process of developing options and actions to improve opportunities and reduce  threats to project objectives.
+Planning Process Group,228,"Planning Process Group. Processes required to establish the scope of the project, refine the objectives, and  define the course of action required to attain the objectives that the project was undertaken to achieve."
+Policy,232,Policy. A structured pattern of actions adopted by an  organization such that the organization’s policy can be  explained as a set of basic principles that govern the  organization’s conduct.
+Portfolio,236,"Portfolio. Projects, programs, subsidiary portfolios, and  operations managed as a group to achieve strategic  objectives."
+Preventive Action,239,Preventive Action. An intentional activity that ensures  the future performance of the project work is aligned  with the project management plan. Probability and Impact Matrix. A grid for linking or mapping the probability of occurrence of each risk and its  impact on project objectives if that risk occurs.
+Procedure,245,"Procedure. An established method of accomplishing a  consistent performance or result, a procedure typically  can be described as the sequence of steps that will be  used to execute a process."
+Manage Communications,249,"Manage Communications. The process of collecting,  creating, distributing, storing, retrieving, and ultimately disposing of project information, according to the  Communications Management Plan."
+Monitor,253,"Monitor. Collecting project performance data according to a plan, producing performance measures, and  reporting and disseminating performance information. Monitoring and Controlling Process Group. Processes  required to track, review, and regulate the progress  and performance of the project; identify any areas in  which changes to the plan are required; and initiate  the corresponding changes. M N O P a process or activity. It is usually used with a modifier,  such as “issue,” “change,” “assumption,” or “defect.”"
+Logical Relationship,267,Logical Relationship. A dependency between two activities or between an activity and a milestone.
+Output,269,"Output. A product, result, or service generated by a  process. It may be an input to a successor process. 5"
+Process,272,Process. A systematic series of activities directed toward  causing an end result such that one or more inputs will  be acted upon to create one or more outputs.
+Product,275,"Product. An artifact that is produced, is quantifiable,  and can be either an end item in itself or a component  item. Additional words for products are “material” and  “goods.” "
+Program,279,"Program. Related projects, subsidiary programs, and  program activities that are managed in a coordinated  manner to obtain benefits not available from managing them individually. "
+Program Management,283,"Program Management. The application of knowledge,  skills, tools, and techniques to a program to meet its requirements and obtain benefits and control not available by managing projects individually."
+Project,287,"Project. A temporary endeavor undertaken to create a  unique product, service, or result. "
+Project Communications Management,289,"Project Communications Management. It includes the  processes required to ensure timely and appropriate  planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and ultimate  disposition of project information."
+Project Cost Management,294,"Project Cost Management. It includes the processes  involved in planning, estimating, budgeting, financing,  funding, managing, and controlling costs so the project can be completed within the approved budget."
+Project Human Resources Management,298,"Project Human Resources Management. It includes  the processes that organize, manage, and lead the  project team."
+Project Integration Management,301,"Project Integration Management. It includes the processes and activities to identify, define, combine, unify,  and coordinate the various processes and project management activities within the Project Management  Process Groups."
+Project Life Cycle,306,Project Life Cycle. The series of phases that a project  passes through from its start to its completion.
+Project Management,308,"Project Management. The application of knowledge,  skills, tools, and techniques to project activities to meet  the project requirements. "
+Project Management Knowledge Area,311,"Project Management Knowledge Area. An identified area  of project management defined by its knowledge requirements and described in terms of its component processes, practices, inputs, outputs, tools, and techniques."
+Project Management Process Group,315,"Project Management Process Group. A logical grouping of project management inputs, tools and techniques, and outputs. Project Management Process  Groups include initiating processes, planning processes, executing processes, monitoring and controlling  processes, and closing processes. Project Management Process Groups are not project phases. Project Manager (PM). The person assigned by the  performing organization to lead the team that is responsible for achieving the project objectives."
+Project Phase,325,Project Phase. A collection of logically related project  activities that culminates in the completion of one or  more deliverables.
+Project Procurement Management,328,"Project Procurement Management. It includes the processes necessary to purchase or acquire products, services, or results needed from outside the project team."
+Project Quality Management,331,"Project Quality Management. It includes the performing organization’s processes and activities, which  determine quality policies, objectives, and responsibilities, so the project meets the needs for which it is carried out."
+Project Risk Management,336,"Project Risk Management. It includes the processes  concerned with conducting risk management planning, as well as the identification, analysis, response  planning, response implementation, and monitoring of  risk on a project."
+Project Schedule,341,"Project Schedule. An output of a schedule model that  presents linked activities with planned dates, durations,  milestones, and resources. "
+Project Schedule Management,344,Project Schedule Management. It includes the processes required to manage the timely completion of the  project.
+Project Schedule Network Diagram,347,Project Schedule Network Diagram. A graphical representation of the logical relationships among the project schedule activities. 6
+Project Scope,351,"Project Scope. The work performed to deliver a product, service, or result with the specified features and  functions. "
+Project Scope Management,354,"Project Scope Management. It includes the processes  required to ensure that the project includes all the work  required, and only the work required, to complete the  project successfully."
+Project Stakeholder Management,358,"Project Stakeholder Management. It includes the processes required to identify the people, groups, or organizations that could impact or be impacted by the  project, to analyze stakeholder expectations and their  impact on the project, and to develop appropriate management strategies for effectively engaging  stakeholders in project decisions and execution."
+Project Team,365,Project Team. A set of individuals who support the project manager in performing the work of the project to  achieve its objectives.
+Quality,368,Quality. The degree to which a set of inherent characteristics fulfills requirements. 
+Quality Requirement,370,Quality Requirement. A condition or capability that will  be used to assess conformance by validating the acceptability of an attribute for the quality of a result.
+RACI,373,"RACI. A common type of responsibility assignment matrix that uses responsible, accountable, consult, and  inform statuses to define the involvement of stakeholders in project activities."
+Requested Change,377,Requested Change. A formally documented change  request that is submitted for approval through the Integrated Change Control Process.
+Requirement,380,"Requirement. A condition or capability that must be  present in a product, service, or result to satisfy a contract or another formally imposed specification. Q R"
+Reserve,385,"Reserve. A provision in the project management plan  to mitigate cost and/or schedule risk. It is often used  with a modifier (e.g., management reserve, contingency reserve) to provide further detail on what types of  risk are meant to be mitigated."
+Reserve Analysis,390,Reserve Analysis. An analytical technique to determine reserve needs compared to the available reserve. 
+Residual Risk,392,Residual Risk. The risk that remains after risk responses  have been implemented.
+Resource,394,"Resource. Specialized human resources (specific disciplines, either individually, in teams, or in groups), equipment, services, supplies, raw materials, materials, budgets, or funds."
+Responsibility,398,Responsibility. An assignment that can be delegated  within a project management plan such that the assigned resource incurs a duty to perform the requirements of the assignment.  Responsibility Assignment Matrix (RAM). A grid that  shows the project resources assigned to each work  package.
+Risk,405,"Risk. An uncertain event or condition that, if it occurs,  has a positive or negative effect on one or more project objectives. "
+Risk Acceptance,408,Risk Acceptance. A risk response strategy whereby the  project team decides to acknowledge the risk and not  take any action unless the risk occurs.
+Risk Appetite,411,Risk Appetite. The degree of uncertainty an organization or individual is willing to accept in anticipation of  a reward.
+Risk Audits,414,Risk Audits. Examining and documenting the effectiveness of the risk management process.
+Risk Avoidance,416,Risk Avoidance. A risk response strategy whereby the  project team acts to eliminate the threat or protect the  project from its impact. Risk Breakdown Structure (RBS). A hierarchical representation of risks arranged by risk category.
+Risk Categorization,421,"Risk Categorization. Organizing risks by sources of risk  7 (e.g., using the RBS), the area of the project affected  (e.g., using the WBS), or another useful category (e.g.,  project phase) to determine the areas of the project  that are most exposed to the effects of uncertainty."
+Risk Data Quality Assessment,427,Risk Data Quality Assessment. A technique to evaluate  the degree to which the data about risks is useful for  risk management.
+Risk Management Plan,430,"Risk Management Plan. A component of the project,  program, or portfolio management plan that describes how risk management activities will be structured  and performed."
+Risk Mitigation,434,Risk Mitigation. A risk response strategy whereby the  project team acts to decrease the probability of occurrence or impact of a threat.
+Risk Reassessment,437,"Risk Reassessment. The identification of new risks, the  reassessment of current risks, and the closing of outdated risks."
+Risk Register,440,Risk Register. A document containing the results of risk  analysis and risk response planning.
+Risk Threshold,442,Risk Threshold. The degree of uncertainty or impact  in which a stakeholder may have particular interest.  The organization will accept risk that falls below that  risk threshold. The organization will not tolerate risk that  goes above that risk threshold.
+Risk Tolerance,447,"Risk Tolerance. The degree, quantity, or volume of risk  that an organization or an individual will endure."
+Risk Transference,449,"Risk Transference. A risk response strategy whereby  the project team shifts the impact of a threat to a third  party, together with ownership of the response."
+Risk Urgency Assessment,452,Risk Urgency Assessment. The review and determination of the moment in which actions may be necessary  before other risk elements occur.
+Role,455,"Role. A defined function to be performed by a project  team member, such as testing, filing, inspecting, or coding. S"
+Schedule Compression,458,Schedule Compression. A technique used to shorten the  schedule duration without reducing the project scope. Schedule Performance Index (SPI). A measure of schedule efficiency expressed as the ratio of earned value  to planned value.
+Scope,463,"Scope. The sum of the products, services, and results to  be provided as a project. "
+Secondary Risk,465,Secondary Risk. A risk that arises as a direct result of  implementing a risk response.
+Sequence Activities,467,Sequence Activities. The process of identifying and documenting relationships among the project activities.
+Specification,469,"Specification. A document that completely, accurately, and verifiably expresses the requirements, design, behavior, and other characteristics of a system,  component, product, result, or service, as well as the  procedures to determine if these provisions have been  met. Some examples are requirements specifications,  design specifications, product specifications, and test  specifications."
+Stakeholder,477,"Stakeholder. An individual, group, or organization that  may affect, be affected by, or perceive itself to be  affected by a decision, activity, or outcome of a project. "
+Stakeholder Analysis,480,Stakeholder Analysis. A technique of systematically  gathering and analyzing quantitative and qualitative  information to determine whose interests should be  taken into account throughout the project.
+Stakeholder Register,484,"Stakeholder Register. A project document including  the identification, assessment, and classification of  project stakeholders."
+Standard,487," Standard. A document that provides, for common and  repetitive use, the rules, guidelines, or characteristics  that activities (or their results) should meet in order to  obtain an optimal degree of order in a given context."
+SWOT Analysis,491,"SWOT Analysis. Analysis of strengths, weaknesses, opportunities, and threats of an organization, project, or option. 8 T V W"
+Technique,497,Technique. A systematic procedure defined and employed by one or more persons to perform one or more  activities in order to generate a product or result or  provide a service. It may use one or more tools.
+Diagramming Techniques,501,Diagramming Techniques. Approaches to presenting  information with logical linkages that aid in understanding.
+Templates,504,"Templates. Partially complete documents in a predefined format that provide a defined structure for collecting, organizing, and presenting information and data."
+Threat,507,Threat. A risk that would have a negative effect on one  or more project objectives.
+Tool,509,"Tool. Something tangible, such as a template or software program, used in performing an activity to produce a product or result."
+Total Float,512,Total Float. The amount of time that a schedule activity  can be delayed or extended from its early start date  without delaying the project finish date or violating a  schedule constraint.
+Trigger Condition,516,Trigger Condition. An event or situation that indicates  that a risk is about to occur.
+Variance Analysis,518,Variance Analysis. A technique for determining the  cause and degree of difference between the baseline  and actual performance.
+Verified Deliverables,521,Verified Deliverables. Completed project deliverables  that have been checked and confirmed for correctness through the Control Quality process.
+Work Breakdown Structure Component,524,Work Breakdown Structure Component. An entry in the  work breakdown structure that can be at any level.
+Work Package,526,Work Package. The work defined at the lowest level of  the work breakdown structure for which cost and duration are estimated and managed.
+Work Performance Data,529,Work Performance Data. The raw observations and  measurements identified during activities being performed to carry out the project work.
+Work Performance Reports,532, Work Performance Reports. The physical or electronic representation of work performance information compiled in project documents intended to generate decisions actions or awareness.
